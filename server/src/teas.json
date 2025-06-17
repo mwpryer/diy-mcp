@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Longjing (Dragon Well)",
+    "simplified": "龙井",
+    "traditional": "龍井",
+    "description": "A delicate green tea from Hangzhou with a fresh, sweet flavor and distinctive flat-pressed leaves. Known for its jade color and subtle chestnut aroma.",
+    "type": "Green Tea",
+    "origin": "Zhejiang Province",
+    "brewingTemp": "80°C",
+    "steepTime": "2-3 minutes"
+  },
+  {
+    "name": "Tieguanyin (Iron Goddess of Mercy)",
+    "simplified": "铁观音",
+    "traditional": "鐵觀音",
+    "description": "A premium oolong tea with a complex floral fragrance and honey-like sweetness. The leaves unfurl beautifully when steeped.",
+    "type": "Oolong Tea",
+    "origin": "Fujian Province",
+    "brewingTemp": "90°C",
+    "steepTime": "30 seconds"
+  },
+  {
+    "name": "Pu-erh",
+    "simplified": "普洱",
+    "traditional": "普洱",
+    "description": "A fermented dark tea that improves with age. Rich, earthy flavor with deep complexity and smooth finish. Often compressed into cakes.",
+    "type": "Dark Tea (Fermented)",
+    "origin": "Yunnan Province",
+    "brewingTemp": "100°C",
+    "steepTime": "2-3 minutes"
+  },
+  {
+    "name": "Keemun Black Tea",
+    "simplified": "祁门红茶",
+    "traditional": "祁門紅茶",
+    "description": "A malty black tea with wine-like and fruity characteristics. Smooth body with hints of chocolate and a bright copper color.",
+    "type": "Black Tea",
+    "origin": "Anhui Province",
+    "brewingTemp": "95°C",
+    "steepTime": "3-5 minutes"
+  },
+  {
+    "name": "Silver Needle (Bai Hao Yin Zhen)",
+    "simplified": "白毫银针",
+    "traditional": "白毫銀針",
+    "description": "The most prized white tea made from young buds covered in silver down. Delicate, subtle sweetness with a clean, refreshing taste.",
+    "type": "White Tea",
+    "origin": "Fujian Province",
+    "brewingTemp": "75°C",
+    "steepTime": "4-6 minutes"
+  }
+]
